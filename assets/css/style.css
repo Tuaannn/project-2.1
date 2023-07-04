@@ -169,7 +169,7 @@ a {
 
 .hero .content .desc {
     margin-top: 46px;
-    width: 373px;
+    width: 374px;
     color: #9da6a5;
     font-size: 1.8rem;
     line-height: 1.77;
@@ -409,6 +409,7 @@ a {
 }
 
 .features .info .sub-title {
+    width: 590px;
     color: #767e7e;
     font-size: 1.8rem;
     line-height: normal;
@@ -447,6 +448,7 @@ a {
 }
 
 .features .list-item .desc {
+    margin-top: 16px;
     color: #9da6a5;
     font-size: 1.6rem;
     font-weight: 400;
@@ -476,6 +478,7 @@ a {
 }
 
 .popular-courses .popular-top .title {
+    line-height: normal;
     margin-top: 18px;
     color: #0d1111;
     font-size: 4.2rem;
