@@ -904,3 +904,15 @@ a {
     font-size: 1.8rem;
     line-height: normal;
 }
+
+.fund {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.fund img {
+    width: 30px;
+    height: 30px;
+}
